@@ -13,5 +13,5 @@ $(function(){
         }
     })
 
-    //helpers
+    //create helpers
 })
